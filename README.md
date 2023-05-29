@@ -47,7 +47,7 @@
 
 
 <p align='center'>
-  <a href='https://img.shields.io/stackexchange/stackoverflow/r/7155334'>♟Stackoverflow
+  <img src='https://img.shields.io/stackexchange/stackoverflow/r/7155334' />♟Stackoverflow
 <img align='center' src='#'/></a>
   </p>
 
