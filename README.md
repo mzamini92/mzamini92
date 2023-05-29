@@ -47,8 +47,8 @@
 
 
 <p align='center'>
-  <img src='https://img.shields.io/stackexchange/stackoverflow/r/7155334' />♟Stackoverflow
-<img align='center' src='#'/></a>
+  <img src='https://img.shields.io/stackexchange/stackoverflow/r/7155334' />
+
   </p>
 
 <details>
