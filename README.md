@@ -115,7 +115,7 @@
 </details>
 
 <details>
-  <summary>📦 Packages</summary>
+  <summary>📦 Contributor of:</summary>
   
   
 
