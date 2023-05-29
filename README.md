@@ -121,8 +121,8 @@
 
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
-| [ToolBench](https://github.com/OpenBMB/ToolBench) | construct open-source, large-scale, high-quality instruction tuning SFT data  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
-| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant)   | project meant to give everyone access to a great chat based large language model.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
+| [ToolBench](https://github.com/OpenBMB/ToolBench) | construct open-source, large-scale, high-quality instruction tuning SFT data  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://img.shields.io/github/forks/OpenBMB/ToolBench?style=social) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social) |
+| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant)   | project meant to give everyone access to a great chat based large language model.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://img.shields.io/github/forks/LAION-AI/Open-Assistant?style=social) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
   
 </details>
