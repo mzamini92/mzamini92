@@ -121,7 +121,6 @@
 
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
-
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant)   | project meant to give everyone access to a great chat based large language model.   | [![Nuget](https://img.shields.io/github/forks/LAION-AI/Open-Assistant?style=social)](https://img.shields.io/github/forks/LAION-AI/Open-Assistant?style=social) | [![Nuget](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social)](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social) |
 | [Gorilla](https://github.com/ShishirPatil/gorilla) | enables LLMs to use tools by invoking APIs.  | [![Nuget](https://img.shields.io/github/forks/ShishirPatil/gorilla?style=social)](https://img.shields.io/github/forks/ShishirPatil/gorilla?style=social) | [![Nuget](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social) |
 | [ToolBench](https://github.com/OpenBMB/ToolBench) | construct open-source, large-scale, high-quality instruction tuning SFT data  | [![Nuget](https://img.shields.io/github/forks/OpenBMB/ToolBench?style=social)](https://img.shields.io/github/forks/OpenBMB/ToolBench?style=social) | [![Nuget](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social) |
