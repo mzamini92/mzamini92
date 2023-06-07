@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mzamini92&show_icons=true&count_private=true&theme=merko"></a>
+  <a href="#"><img src="![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzamini92&show_icons=true&theme=radical)"></a>
 </p>
 
 <p align='center'>
