@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mzamini92&show_icons=true&count_private=true&theme=merko" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mzamini92&show_icons=true&count_private=true&theme=merko"></a>
 </p>
 
 <p align='center'>
